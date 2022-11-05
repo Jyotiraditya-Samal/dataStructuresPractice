@@ -1,0 +1,2 @@
+# dataStructuresPractice
+DS practice problems
